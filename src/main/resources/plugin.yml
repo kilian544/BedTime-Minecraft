@@ -1,0 +1,6 @@
+name: BedTime
+version: 0.1
+author: Kilian Legters
+main: me.kilianlegters.BedTime
+description: Only 1 person needs to sleep.
+api-version: 1.14
